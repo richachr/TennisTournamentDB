@@ -3,7 +3,7 @@
 A service to create tennis tournament brackets that can be updated as teams come and go, allowing for late arrivals and early departures. Statistics can also be tracked at the player and team level.
 
 # ERD
-Sketch your initial thinking on your ERD and the data your project will be accessing and using
+![image](https://github.com/user-attachments/assets/f5e09c54-386b-482e-8696-10850ed07d57)
 
 # Data
 
@@ -16,13 +16,13 @@ TTDB will run on a web frontend built on Javascript and React, with a backend us
 
 *3/19*: Finish project plan and diagrams.
 
-*3/26* Finish basic SQLite feature development.
+*3/26*: Finish basic SQLite feature development.
 
-*4/2* Finish logical testing and add additional statistical features.
+*4/2*: Finish logical testing and add additional statistical features.
 
-*4/9* Implement frontend system to interact with database.
+*4/9*: Implement frontend system to interact with database.
 
-*4/16* Refine frontend design, test database logic, and fix bugs.
+*4/16*: Refine frontend design, test database logic, and fix bugs.
 
 # UI
 
